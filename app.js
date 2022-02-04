@@ -3,7 +3,7 @@ const app = express();
 
 app.get('/', (req, res) =>{
 
-    res.send('<div class="secret">HcUy6Re2LLBRtj</div>')
+    res.send('<h1>HcUy6Re2LLBRtj</h1>')
  
 });
 
